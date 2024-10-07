@@ -1,0 +1,7 @@
+Descrição:
+Este projeto consiste em um aplicativo web simples para gerenciar uma agenda de contatos.O usuário poderá adicionar,remover e visualizar contatos.Além disso,o projeto incluirá animações básicas para melhorar a experiência do usuário.
+Funcionalidades:
+Adicionar contato:Permite ao usuário adicionar um novo contato com nome;telefone e email.
+Remover contato:Permite ao usuário remover um contato existente.
+Visualizar contatos:Exibe uma lista de todos os contatos adicionnados.
+Animações simples:Animações para transições suaves ao adicionar ou remover contatos.
